@@ -1,7 +1,7 @@
-# BerserkBJJ E-commerce Store
+# E-commerce Store
 
 <p align="center">
-  <img src="./static/img/logo.png" alt="BerserkBJJ Logo" width="300" height="auto">
+  <img src="./berserkbjj/static/img/logo.png" alt="BerserkBJJ Logo" width="300" height="auto">
 </p>
 
 The **BerserkBJJ E-commerce Store** is a web application built with **Flask** and **Python** using **Jinja** templating. It serves as a front-end focused e-commerce store designed to showcase and manage products for Brazilian Jiu-Jitsu (BJJ) enthusiasts. While the application has a simple backend structure to handle order data, most of the product information is handled in the front end.
